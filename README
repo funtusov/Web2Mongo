@@ -2,4 +2,4 @@ A small library that downloads web pages, parse them and saves the needed data i
 
 Uses HPricot.
 
-Right now it's parsing IMDB movies, using simple multithreading, it's a quick trial of some functions.
+Right now it's parsing IMDB movies, using simple multithreading, it's a quick trial of some functions. The IMDB part was inspired by an article that used the technique. I wondered it threading and mongodb from there.
