@@ -1,0 +1,5 @@
+A small library that downloads web pages, parse them and saves the needed data in mongodb.
+
+Uses HPricot.
+
+Right now it's parsing IMDB movies, using simple multithreading, it's a quick trial of some functions.
